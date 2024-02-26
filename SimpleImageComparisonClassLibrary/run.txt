@@ -1,0 +1,4 @@
+/Users/nick/My Photos/2011/2011-10-8/img_1112_9327755523_o.jpg
+/Users/nick/My Photos/2011/2011-10-8/img_1112_9327755523_o copy.jpg
+
+dotnet run '/Users/nick/My Photos/2011/2011-10-8/img_1112_9327755523_o.jpg' '/Users/nick/My Photos/2011/2011-10-8/img_1112_9327755523_o copy.jpg'
